@@ -1,0 +1,8 @@
+# Logfile created on 2014-04-04 13:32:24 +1100 by logger.rb/41954
+I, [2014-04-04T13:32:24.022695 #12586]  INFO -- : 0:  multimap (1.1.2) from /home/kerrison/.rvm/gems/ruby-2.0.0-p353/specifications/multimap-1.1.2.gemspec
+I, [2014-04-04T13:32:24.023063 #12586]  INFO -- : 0:  mime-types (2.2) from /home/kerrison/.rvm/gems/ruby-2.0.0-p353/specifications/mime-types-2.2.gemspec
+I, [2014-04-04T13:32:24.023322 #12586]  INFO -- : 0:  rest-client (1.6.7) from /home/kerrison/.rvm/gems/ruby-2.0.0-p353/specifications/rest-client-1.6.7.gemspec
+I, [2014-04-04T13:32:24.082599 #12586]  INFO -- : 0:  mailgun (0.7) from /home/kerrison/.rvm/gems/ruby-2.0.0-p353/bundler/gems/mailgun-37e4c2cd4195/mailgun.gemspec
+I, [2014-04-04T13:32:24.082965 #12586]  INFO -- : 0:  mini_portile (0.5.2) from /home/kerrison/.rvm/gems/ruby-2.0.0-p353/specifications/mini_portile-0.5.2.gemspec
+I, [2014-04-04T13:32:24.083219 #12586]  INFO -- : 0:  nokogiri (1.6.1) from /home/kerrison/.rvm/gems/ruby-2.0.0-p353/specifications/nokogiri-1.6.1.gemspec
+I, [2014-04-04T13:32:24.083457 #12586]  INFO -- : 0:  bundler (1.5.1) from /home/kerrison/.rvm/gems/ruby-2.0.0-p353@global/specifications/bundler-1.5.1.gemspec
