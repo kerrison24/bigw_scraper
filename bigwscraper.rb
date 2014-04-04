@@ -27,7 +27,7 @@ end
 
 #email
 parameters = {
-  :to => "kerrisongarcia@gmail.com",
+  :to => "email@gmail.com",
   :subject => "3DS Games on promotion at BigW",
   :text => "Here are the latest 3DS games on promotion at BigW",
   :from => "kerrisongarcia@sandbox92031.mailgun.org",
